@@ -1,0 +1,12 @@
+body {
+    background-color: darkcyan;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#container {
+    background-color: darkgray;
+    width: 80%;
+    padding: 25px;
+    margin: auto;
+    text-align: center;
+}
